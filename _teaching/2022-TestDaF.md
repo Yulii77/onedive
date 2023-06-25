@@ -4,7 +4,7 @@ collection: teaching
 type: "language test"
 permalink: /teaching/2022-TestDaF
 venue: "München"
-date: 2022-11
+date: 2022-11-10
 location: "München, Deutschland"
 ---
 
