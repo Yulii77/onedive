@@ -1,18 +1,15 @@
 # main links links
 main:
-  - title: "Blog Posts"
+  - title: "博客"
     url: /year-archive/
   
-  - title: "Photos"
-    url: /publications/
+  - title: "图集"
+    url: /photo-gallery/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
+  - title: "经验"
     url: /teaching/       
     
-  - title: "CV"
+  - title: "Q&A"
     url: /cv/
     
   - title: "Guide"
